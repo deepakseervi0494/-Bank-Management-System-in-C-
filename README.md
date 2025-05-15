@@ -1,4 +1,3 @@
-# -Bank-Management-System-in-C-
 # 💼 Bank Management System in C++
 
 A **console-based Bank Management System** built using **C++**, focusing on core concepts of **Object-Oriented Programming (OOP)** and **File Handling**. This project simulates a basic banking environment where users can manage bank accounts with essential functionalities such as account creation, deposit, withdrawal, and deletion.
